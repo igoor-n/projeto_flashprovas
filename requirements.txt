@@ -1,0 +1,6 @@
+streamlit==1.55.0
+google-generativeai
+python-dotenv
+reportlab
+PyPDF2
+python-docx
